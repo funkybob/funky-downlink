@@ -1,5 +1,5 @@
 {
-  "name": "@funkybob/download",
+  "name": "@funkybob/downlink",
   "version": "0.0.1",
   "description": "Download Browser-generated files.",
   "main": "index.js",

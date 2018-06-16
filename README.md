@@ -6,7 +6,7 @@ Download browser-generated content to the user.
 Usage
 -----
 
-    import {download} from '@funkybob/download';
+    import {downlink} from '@funkybob/download';
 
     // Sample YAML from http://yaml.org/start.html
     let content = `
@@ -25,5 +25,5 @@ Usage
             postal  : 48046
     `;
 
-    download(content, 'sample.yaml', 'text/yaml');
+    downlink(content, 'sample.yaml', 'text/yaml');
 
