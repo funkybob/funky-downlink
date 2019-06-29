@@ -6,7 +6,7 @@ Download browser-generated content to the user.
 Usage
 -----
 
-    import {downlink} from '@funkybob/download';
+    import {downlink} from '@funkybob/downlink';
 
     // Sample YAML from http://yaml.org/start.html
     let content = `
