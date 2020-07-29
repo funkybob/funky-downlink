@@ -1,6 +1,6 @@
 {
   "name": "@funkybob/downlink",
-  "version": "0.0.3",
+  "version": "0.1.0",
   "description": "Download Browser-generated files.",
   "main": "index.js",
   "module": "index.js",
