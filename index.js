@@ -8,7 +8,7 @@ export function downlink(content, filename, type = 'text/plain; charset=utf-8') 
 	const url = window.URL.createObjectURL(blob);
 
 	const a = document.createElement('a')
-	a.url = url;
+	a.href = url;
 	a.download = filename;
 	a.click();
 	window.URL.revokeObjectURL(url);
