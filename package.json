@@ -11,6 +11,6 @@
   "author": "Curtis Maloney",
   "license": "MIT",
   "devDependencies": {
-    "agadoo": "^1.0.0"
+    "agadoo": "^3.0.0"
   }
 }
